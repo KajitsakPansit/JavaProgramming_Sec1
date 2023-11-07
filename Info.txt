@@ -1,0 +1,5 @@
+student id   : 2313110807
+Student Name : Kajitsak Pansit
+Major        : IT
+Level        : 1
+Faculty      : Infornation Technology
