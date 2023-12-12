@@ -1,4 +1,4 @@
 Id           : 2313110807
 Name-Surname : Kajitsak Pansit
-Date         : Nov-28-2023
-Topic        : Control statment (Decision,Loop and Jump statment)
+Date         : Dec-12-2023
+Topic        : Method of String
