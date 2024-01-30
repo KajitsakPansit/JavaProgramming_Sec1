@@ -1,4 +1,4 @@
 Id           : 2313110807
 Name-Surname : Kajitsak Pansit
-Date         : Jan-23-2024
-Topic        : Composition, Inheritance, and Polymorphism Concept
+Date         : Jan-30-2024
+Topic        : Abstracts and Interface
