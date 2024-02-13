@@ -22,7 +22,6 @@ public class Lab1202 {
 			else 
 				check=false;
 		}
-		
 		if(check==false) {
 			System.out.print("The data not found...");
 		}
